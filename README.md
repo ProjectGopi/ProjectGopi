@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Learning+to+build+useful%2C+reliable+AI+systems;Computer+fundamentals+%C2%B7+Python+%C2%B7+AI%2FML;Generative+AI+%C2%B7+Agentic+AI+%C2%B7+thoughtful+projects)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Learning+to+build+useful%2C+reliable+AI+systems;JAVA+%C2%B7+Python+%C2%B7+AI%2FML;Generative+AI+%C2%B7+Agentic+AI+%C2%B7+thoughtful+projects)
 
 <a href="https://www.linkedin.com/in/pokalagopilakshman23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
